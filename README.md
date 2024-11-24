@@ -1,4 +1,4 @@
-# **Explainable Machine Learning-based Models for Age-at-Death Estimation Using Entheseal Changes: An Approach from Computational Social Sciences**
+# **Explainable Machine Learning-based Models for Age-at-Death Estimation Using Entheseal Changes: A Computational Social Sciences Approach **
 
 In Forensic Anthropology (FA), estimating age-at-death in adult individuals is one of the most challenging tasks in the human identification process. Traditional methods and osseous indicators are characterized by a tedious application and an accuracy of less than 95%. In recent years, entheseal changes (EC) have shown a high correlation with age.
 
