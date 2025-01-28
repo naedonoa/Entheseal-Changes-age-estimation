@@ -1,4 +1,4 @@
-# SCRIPT PAPER: "Explainable Machine Learning-based Models for Age-at-Death Estimation Using Entheseal Changes: An Approach from Computational Social Sciences"
+# SCRIPT PAPER: "Explainable Machine Learning Models for Age-at-Death Estimation Using Entheseal Changes: A Data-Driven Analysis of a Mediterranean Adult Sample."
 
 # 1. Kappa de Cohen analysis
 
